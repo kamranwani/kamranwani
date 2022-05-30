@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-<img width="495em" src="https://github-readme-stats.vercel.app/api/top-langs?username=basitmir7&layout=compact&custom_title=Most used languages by LOCs">
+<img width="495em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamranwani&layout=compact&custom_title=Most used languages by LOCs">
 </div>
 
 
