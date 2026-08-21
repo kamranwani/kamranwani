@@ -2,29 +2,29 @@
 
 # 👋 Hi, I'm Kamran Wani
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=7C83FD&center=true&vCenter=true&width=850&height=45&lines=Software+Engineer+%7C+.NET+%7C+Backend+%7C+Full-Stack;C%23+%7C+ASP.NET+Core+%7C+SQL+Server+%7C+REST+APIs;React+%7C+Next.js+%7C+TypeScript+%7C+Tailwind+CSS;Clean+Architecture+%7C+Secure+APIs+%7C+Production-Ready+Systems;Always+Learning.+Always+Building.+Always+Improving." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=7C83FD&center=true&vCenter=true&width=900&height=45&lines=Software+Engineer+%7C+.NET+%7C+Backend+%7C+Full-Stack;C%23+%7C+ASP.NET+Core+%7C+SQL+Server+%7C+REST+APIs;React+%7C+Next.js+%7C+TypeScript+%7C+Tailwind+CSS;Clean+Architecture+%7C+Secure+APIs+%7C+Production-Ready+Systems;Always+Learning.+Always+Building.+Always+Improving." alt="Typing SVG" />
 
 <br />
 
-I'm a Software Engineer focused on building **secure, scalable, and maintainable software** across backend systems, APIs, databases, and modern web applications.
+### Building secure, scalable and maintainable software — from database to interface.
 
 <br />
 
 <a href="https://www.linkedin.com/in/kamran-wani/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:kamraanwani@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/kamranwani">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=kamranwani&label=Profile%20Views&color=7C83FD&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=kamranwani&label=Profile%20Views&color=7C83FD&style=flat" alt="Profile Views" />
 
 </div>
 
@@ -95,19 +95,37 @@ I'm a Software Engineer focused on building **secure, scalable, and maintainable
 
 ---
 
+# 📊 Projects by Stack
+
+<div align="center">
+
+<!-- Generated automatically from your public repositories -->
+
+<img src="./assets/stack-stats.svg" alt="Projects by Stack" />
+
+</div>
+
+> Automatically generated from repository metadata. Counts update whenever the repository analysis workflow runs.
+
+---
+
 # 🤖 AI-Assisted Development
 
-AI is part of my modern development workflow.
+AI is part of my everyday engineering workflow.
 
-<p>
+<div align="center">
+
 <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" />
-</p>
+
+<br /><br />
 
 **Development · Debugging · Research · Refactoring · Documentation · Problem Solving**
+
+</div>
 
 > AI accelerates my workflow — engineering fundamentals drive the decisions.
 
@@ -115,29 +133,33 @@ AI is part of my modern development workflow.
 
 # 📚 Currently Exploring
 
-<p align="center">
+<div align="center">
+
 <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloud--Native_.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/Advanced_TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
 
-<p align="center">
-<strong>Azure · Cloud-native .NET · Docker · Advanced TypeScript · Scalable Architecture</strong>
-</p>
+<br /><br />
+
+**Azure · Cloud-native .NET · Docker · Advanced TypeScript · Scalable Architecture**
+
+</div>
 
 ---
 
-# 📊 GitHub Stats
+# 📈 Engineering Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamranwani&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamranwani&layout=compact&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kamranwani&hide_border=true" height="180" alt="GitHub Streak" />
-</p>
+|    Backend   |   Frontend   |      Data      |      Architecture      |
+| :----------: | :----------: | :------------: | :--------------------: |
+|   **.NET**   |   **React**  | **SQL Server** | **Clean Architecture** |
+| ASP.NET Core |    Next.js   |     EF Core    |          SOLID         |
+| Minimal APIs |  TypeScript  |     Dapper     |  Dependency Injection  |
+|   REST APIs  | Tailwind CSS |     ADO.NET    |      Unit Testing      |
+
+</div>
 
 ---
 
