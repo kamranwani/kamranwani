@@ -95,20 +95,6 @@
 
 ---
 
-# ⚡ Built With
-
-<div align="center">
-
-<img src="./assets/stack-stats.svg" alt="Built With" width="850" />
-
-</div>
-
-<p align="center">
-<sub>Generated automatically from my public repositories</sub>
-</p>
-
----
-
 # 🤖 AI-Assisted Development
 
 AI is part of my modern engineering workflow.
@@ -143,20 +129,6 @@ AI is part of my modern engineering workflow.
 <br /><br />
 
 **Azure · Cloud-native .NET · Docker · Advanced TypeScript · Scalable Architecture**
-
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="./assets/github-stats.svg" alt="GitHub Statistics" width="850" />
-
-<br /><br />
-
-<img src="./assets/top-languages.svg" alt="Top Languages" width="850" />
 
 </div>
 
