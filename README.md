@@ -47,7 +47,7 @@ I'm a Software Engineer focused on building **secure, scalable, and maintainable
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/Minimal_APIs-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" />
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
@@ -95,142 +95,64 @@ I'm a Software Engineer focused on building **secure, scalable, and maintainable
 
 ---
 
-# 🚀 What I Focus On
-
-<table>
-<tr>
-<td width="50%">
-
-### Backend Engineering
-
-* ASP.NET Core
-* Minimal APIs
-* REST API design
-* Authentication & Authorization
-* JWT
-* Clean Architecture
-* Dependency Injection
-* Repository Pattern
-* EF Core
-* Dapper
-* ADO.NET
-
-</td>
-
-<td width="50%">
-
-### Database Engineering
-
-* SQL Server
-* Relational database design
-* T-SQL
-* Complex queries
-* CTEs
-* Window Functions
-* Stored Procedures
-* Transactions
-* Isolation Levels
-* Indexing
-* Query optimization
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Frontend Engineering
-
-* React
-* Next.js
-* JavaScript
-* TypeScript
-* Tailwind CSS
-* Component architecture
-* API integration
-* Responsive UI
-* Performance
-* Accessibility
-
-</td>
-
-<td width="50%">
-
-### Engineering Practices
-
-* Clean Architecture
-* SOLID principles
-* Unit testing
-* Secure API design
-* Git & GitHub
-* API documentation
-* Code quality
-* Debugging
-* Performance
-* Maintainability
-
-</td>
-</tr>
-</table>
-
----
-
 # 🤖 AI-Assisted Development
 
-I use AI as part of my engineering workflow to accelerate:
+AI is part of my modern development workflow.
 
-**Development · Debugging · Research · Refactoring · Documentation · Problem Solving**
-
-Tools I actively work with:
-
+<p>
 <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" />
+</p>
 
-**AI accelerates my workflow — engineering fundamentals drive the decisions.**
+**Development · Debugging · Research · Refactoring · Documentation · Problem Solving**
+
+> AI accelerates my workflow — engineering fundamentals drive the decisions.
 
 ---
 
 # 📚 Currently Exploring
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloud--Native_.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/Advanced_TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-
 </p>
 
-Currently deepening my knowledge in **Azure, cloud-native .NET development, Docker, advanced TypeScript, and scalable application architecture.**
+<p align="center">
+<strong>Azure · Cloud-native .NET · Docker · Advanced TypeScript · Scalable Architecture</strong>
+</p>
 
 ---
 
-# 📊 GitHub
+# 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kamranwani&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamranwani&layout=compact&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kamranwani&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamranwani&layout=compact&hide_border=true&langs_count=8" height="180" />
-
-<br /><br />
-
-<img src="https://streak-stats.demolab.com?user=kamranwani&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kamranwani&hide_border=true" height="180" alt="GitHub Streak" />
+</p>
 
 ---
 
 <div align="center">
 
-### 💡 Build → Learn → Refactor → Repeat
+### Build · Learn · Refactor · Repeat
 
 <br />
 
 <a href="https://www.linkedin.com/in/kamran-wani/">LinkedIn</a>
   ·   <a href="mailto:kamraanwani@gmail.com">Email</a>
   ·   <a href="https://github.com/kamranwani">GitHub</a>
+
+<br /><br />
+
+<sub>Software Engineer · .NET · Backend · Full-Stack</sub>
 
 </div>
