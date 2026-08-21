@@ -95,17 +95,63 @@
 
 ---
 
-# ⚡ Built With
+# 🚀 Featured Projects
 
-<div align="center">
-
-<img src="./assets/stack-stats.svg" alt="Repository stack statistics" width="850" />
-
-</div>
-
-<p align="center">
-<sub>Automatically generated from my public repositories · Updated by GitHub Actions</sub>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔷 .NET & C# Backend</h3>
+      <p>Enterprise APIs, Microservices, and Clean Architecture.</p>
+      <p>
+        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+      </p>
+      <ul>
+        <li><a href="https://github.com/kamranwani"><strong>Enterprise Clean Architecture API</strong></a> — Scalable backend template with CQRS, JWT Auth, and Repository pattern.</li>
+        <li><a href="https://github.com/kamranwani"><strong>Task & Order Processing Service</strong></a> — High-performance REST APIs built with Minimal APIs and Dapper.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Next.js & React Frontend</h3>
+      <p>Responsive, type-safe web applications and dashboards.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
+      <ul>
+        <li><a href="https://github.com/kamranwani"><strong>Modern SaaS Dashboard</strong></a> — Full-stack interface built with Next.js App Router, Tailwind, and React Server Components.</li>
+        <li><a href="https://github.com/kamranwani"><strong>Portfolio & Service Hub</strong></a> — Optimized client platform showcasing dynamic UI workflows.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🟦 TypeScript & JavaScript Systems</h3>
+      <p>Type-safe utilities, full-stack integrations, and client tooling.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+      </p>
+      <ul>
+        <li><a href="https://github.com/kamranwani"><strong>Full-Stack CRUD App</strong></a> — End-to-end type safety between React client and API endpoints.</li>
+        <li><a href="https://github.com/kamranwani"><strong>Async Data Pipelines</strong></a> — Node.js & TS scripting for data processing and external API integrations.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ Full-Stack Integrations</h3>
+      <p>Connecting .NET backends with modern JavaScript frontends.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Full--Stack-7C83FD?style=flat-square" />
+        <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square" />
+      </p>
+      <ul>
+        <li><a href="https://github.com/kamranwani"><strong>Inventory Management System</strong></a> — ASP.NET Core Web API + React/Next.js frontend with real-time tracking.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -152,9 +198,12 @@ AI is part of my modern engineering workflow.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kamranwani&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&hide=issues&include_all_commits=true" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=kamranwani&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&hide=issues&include_all_commits=true" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kamranwani&layout=compact&hide_border=true&theme=transparent&langs_count=8" width="49%" alt="Top Languages" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamranwani&layout=compact&hide_border=true&theme=transparent&langs_count=8" width="49%" alt="Top Languages" />
+<br /><br />
+
+<img src="https://streak-stats.demolab.com?user=kamranwani&theme=transparent&hide_border=true" width="98%" alt="GitHub Streak" />
 
 </div>
 
@@ -167,8 +216,8 @@ AI is part of my modern engineering workflow.
 <br />
 
 <a href="https://www.linkedin.com/in/kamran-wani/">LinkedIn</a>
-  ·   <a href="mailto:kamraanwani@gmail.com">Email</a>
-  ·   <a href="https://github.com/kamranwani">GitHub</a>
+  ·   <a href="mailto:kamraanwani@gmail.com">Email</a>
+  ·   <a href="https://github.com/kamranwani">GitHub</a>
 
 <br /><br />
 
