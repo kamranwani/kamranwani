@@ -2,304 +2,235 @@
 
 # 👋 Hi, I'm Kamran Wani
 
-### Software Engineer · .NET · Backend · Full-Stack Development
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=7C83FD&center=true&vCenter=true&width=850&height=45&lines=Software+Engineer+%7C+.NET+%7C+Backend+%7C+Full-Stack;C%23+%7C+ASP.NET+Core+%7C+SQL+Server+%7C+REST+APIs;React+%7C+Next.js+%7C+TypeScript+%7C+Tailwind+CSS;Clean+Architecture+%7C+Secure+APIs+%7C+Production-Ready+Systems;Always+Learning.+Always+Building.+Always+Improving." alt="Typing SVG" />
 
-**Building secure, scalable, maintainable software — from database to interface.**
+<br />
 
-<p>
-  <a href="https://github.com/kamranwani">
-    <img src="https://komarev.com/ghpvc/?username=kamranwani&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/kamranwani?tab=followers">
-    <img src="https://img.shields.io/github/followers/kamranwani?label=Followers&style=flat" alt="GitHub Followers" />
-  </a>
-</p>
+I'm a Software Engineer focused on building **secure, scalable, and maintainable software** across backend systems, APIs, databases, and modern web applications.
 
-<p>
-  <a href="https://www.linkedin.com/in/kamran-wani/">LinkedIn</a>
-  ·
-  <a href="mailto:kamraanwani@gmail.com">Email</a>
-  ·
-  <a href="https://github.com/kamranwani?tab=repositories">Projects</a>
-</p>
+<br />
+
+<a href="https://www.linkedin.com/in/kamran-wani/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:kamraanwani@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://github.com/kamranwani">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=kamranwani&label=Profile%20Views&color=7C83FD&style=flat" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## About Me
+# ⚡ Tech Stack
 
-I'm a **Software Engineer** focused on building production-ready backend systems and modern web applications.
+### 💻 Languages
 
-My primary engineering focus is **C#, .NET, ASP.NET Core, SQL Server, REST APIs, and Clean Architecture**, complemented by modern frontend development with **React, Next.js, JavaScript, TypeScript, and Tailwind CSS**.
-
-I enjoy working across the complete application lifecycle — from **database design and data access** to **API architecture, authentication, authorization, testing, frontend development, and deployment**.
-
-I care about writing software that is:
-
-* **Maintainable** — clear architecture and separation of concerns
-* **Secure** — authentication, authorization, validation, and defensive design
-* **Performant** — efficient queries, data access, APIs, and rendering
-* **Testable** — meaningful unit tests and predictable behavior
-* **Scalable** — designed to evolve as requirements grow
-
-I also use AI-assisted development tools such as **ChatGPT, Cursor, Gemini, and Perplexity** for development, debugging, research, documentation, and problem solving — while keeping engineering judgment and code quality at the center.
-
----
-
-## What I Build
+<p>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
 
 ### ⚙️ Backend & APIs
 
-I primarily build backend systems using:
+<p>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Minimal_APIs-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</p>
 
-**C# · .NET · ASP.NET Core · Minimal APIs · REST APIs · SQL Server**
+### 🗄️ Database & Data Access
 
-with experience in:
-
-**Entity Framework Core · Dapper · ADO.NET · Repository Pattern · Clean Architecture · Dependency Injection · JWT Authentication · Authorization**
-
----
-
-### 🗄️ Data & Database Engineering
-
-I enjoy working close to the data layer and understanding how applications interact with databases.
-
-**SQL Server · T-SQL · ADO.NET · Entity Framework Core · Dapper**
-
-Areas I've worked with include:
-
-* Relational database design
-* Relationships and constraints
-* Complex queries and joins
-* CTEs and window functions
-* Stored procedures and views
-* Transactions and isolation levels
-* Indexing and query optimization
-* Repository and data-access patterns
-
----
+<p>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
 ### 🎨 Frontend
 
-I build modern, responsive interfaces using:
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-**React · Next.js · JavaScript · TypeScript · HTML5 · CSS3 · Tailwind CSS**
+### 🏗️ Architecture & Engineering
 
-with a focus on:
+<p>
+<img src="https://img.shields.io/badge/Clean_Architecture-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Repository_Pattern-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Dependency_Injection-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SOLID-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=xunit&logoColor=white" />
+</p>
 
-* Reusable component architecture
-* Responsive design
+### 🛠️ Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+<img src="https://img.shields.io/badge/Scalar-111111?style=for-the-badge" />
+</p>
+
+---
+
+# 🚀 What I Focus On
+
+<table>
+<tr>
+<td width="50%">
+
+### Backend Engineering
+
+* ASP.NET Core
+* Minimal APIs
+* REST API design
+* Authentication & Authorization
+* JWT
+* Clean Architecture
+* Dependency Injection
+* Repository Pattern
+* EF Core
+* Dapper
+* ADO.NET
+
+</td>
+
+<td width="50%">
+
+### Database Engineering
+
+* SQL Server
+* Relational database design
+* T-SQL
+* Complex queries
+* CTEs
+* Window Functions
+* Stored Procedures
+* Transactions
+* Isolation Levels
+* Indexing
+* Query optimization
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Frontend Engineering
+
+* React
+* Next.js
+* JavaScript
+* TypeScript
+* Tailwind CSS
+* Component architecture
+* API integration
+* Responsive UI
 * Performance
 * Accessibility
-* Clean state management
-* API integration
-* User experience
+
+</td>
+
+<td width="50%">
+
+### Engineering Practices
+
+* Clean Architecture
+* SOLID principles
+* Unit testing
+* Secure API design
+* Git & GitHub
+* API documentation
+* Code quality
+* Debugging
+* Performance
+* Maintainability
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Architecture & Engineering
+# 🤖 AI-Assisted Development
 
-I particularly enjoy understanding **why** an application should be structured a certain way rather than simply making the code work.
+I use AI as part of my engineering workflow to accelerate:
 
-**Clean Architecture**
-**Repository Pattern**
-**Dependency Injection**
-**Separation of Concerns**
-**RESTful API Design**
-**Authentication & Authorization**
-**Unit Testing**
-**SOLID Principles**
+**Development · Debugging · Research · Refactoring · Documentation · Problem Solving**
 
-I use these concepts to keep applications easier to understand, test, maintain, and extend.
+Tools I actively work with:
 
----
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" />
 
-## 🚀 Featured Work
-
-### Enterprise Asset Management System
-
-An enterprise-focused application built around managing assets and operational workflows.
-
-**Stack:**
-`ASP.NET Core` `C#` `SQL Server` `Entity Framework Core` `REST APIs` `React`
-
-Worked across the application lifecycle including database design, backend APIs, authentication and authorization, business logic, and frontend implementation.
+**AI accelerates my workflow — engineering fundamentals drive the decisions.**
 
 ---
 
-### Service Management Platform
+# 📚 Currently Exploring
 
-A service-management application built using a Node.js backend and MongoDB.
+<p align="center">
 
-**Stack:**
-`Node.js` `Express.js` `MongoDB` `Mongoose` `React`
+<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud--Native_.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Advanced_TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
-Worked across backend development, database integration, API development, and frontend implementation.
-
----
-
-### Project Tracker
-
-A full-stack application focused on project and work-item management.
-
-**Stack:**
-`ASP.NET Core` `C#` `SQL Server` `Entity Framework Core` `React` `JWT`
-
-Built with a structured backend architecture and secure authentication/authorization.
-
----
-
-## 🧰 Technology Stack
-
-### Backend
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45" alt=".NET" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express.js" />
 </p>
 
-### Frontend
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS" />
-</p>
-
-### Database & Data Access
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="SQL Server" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB" />
-</p>
-
-### Tools & Engineering
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" height="45" alt="Visual Studio" />
-</p>
-
-**API & Development:**
-`Swagger/OpenAPI` · `Scalar` · `Postman` · `Git` · `GitHub` · `Visual Studio` · `VS Code`
+Currently deepening my knowledge in **Azure, cloud-native .NET development, Docker, advanced TypeScript, and scalable application architecture.**
 
 ---
 
-## 📚 Currently Learning
-
-I'm continuously expanding beyond my core .NET stack.
-
-### ☁️ Cloud & Infrastructure
-
-**Microsoft Azure · Cloud-native .NET · Docker**
-
-### 🟦 TypeScript
-
-Deepening my TypeScript knowledge and applying it to modern React and Next.js applications.
-
-### 🏗️ Advanced .NET
-
-Continuing to explore:
-
-**ASP.NET Core · Minimal APIs · Clean Architecture · Dapper · EF Core · Testing · Performance · Distributed Systems**
-
-The goal isn't simply to learn more technologies — it's to understand **how to design better systems with them.**
-
----
-
-## 🧪 Testing
-
-I use **xUnit** for unit testing and am continuing to strengthen my approach to testing application and business logic.
-
-**xUnit · Testable Architecture · Dependency Injection · Mocking**
-
----
-
-## 🤖 AI-Assisted Development
-
-AI is part of my modern development workflow.
-
-I use:
-
-**ChatGPT · Cursor · Gemini · Perplexity**
-
-for:
-
-* Debugging and root-cause analysis
-* Exploring unfamiliar technologies
-* Code review and refactoring
-* Documentation
-* Research
-* Development acceleration
-* Architecture exploration
-
-I treat AI as an **engineering tool**, not a replacement for understanding the system.
-
----
-
-## 📊 GitHub Stats
+# 📊 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kamranwani&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180" alt="Kamran's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=kamranwani&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamranwani&layout=compact&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamranwani&layout=compact&hide_border=true&langs_count=8" height="180" />
+
+<br /><br />
+
+<img src="https://streak-stats.demolab.com?user=kamranwani&hide_border=true" />
 
 </div>
+
+---
+
+<div align="center">
+
+### 💡 Build → Learn → Refactor → Repeat
 
 <br />
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=kamranwani&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamranwani&hide_border=true&area=true" alt="Kamran's Contribution Graph" />
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in **software engineering, backend architecture, .NET, cloud development, modern web applications, and building useful products.**
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/kamran-wani/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="mailto:kamraanwani@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<a href="https://github.com/kamranwani">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-</div>
-
-<br />
-
-<div align="center">
-
-### **Build. Learn. Improve. Repeat.**
+<a href="https://www.linkedin.com/in/kamran-wani/">LinkedIn</a>
+  ·   <a href="mailto:kamraanwani@gmail.com">Email</a>
+  ·   <a href="https://github.com/kamranwani">GitHub</a>
 
 </div>
